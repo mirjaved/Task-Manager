@@ -1,6 +1,17 @@
+
+##Packages
+
+Include laravel collective forms package.
+
+$ composer require laravelcollective/html
+
 ##ScreenShots
 
 <img src="https://github.com/mirjaved/Task-Manager/blob/main/To-Do-List.png">
+
+<img src="https://github.com/mirjaved/Task-Manager/blob/main/To-Do-List-Edit.png">
+
+<img src="https://github.com/mirjaved/Task-Manager/blob/main/To-Do-List-Delete.png">
 
 
 ## License
