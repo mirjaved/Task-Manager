@@ -1,11 +1,17 @@
+# Laravel ToDo App
 
-##Packages
+This is a ToDo app developed with Laravel Framework.
+
+## Packages
 
 Include laravel collective forms package.
 
+```
 $ composer require laravelcollective/html
+```
 
-##ScreenShots
+
+## ScreenShots
 
 <img src="https://github.com/mirjaved/Task-Manager/blob/main/To-Do-List.png">
 
